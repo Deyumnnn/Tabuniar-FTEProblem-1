@@ -90,7 +90,7 @@ Partial Class Form1
         '
         'txtPrice
         '
-        Me.txtPrice.Location = New System.Drawing.Point(366, 68)
+        Me.txtPrice.Location = New System.Drawing.Point(514, 68)
         Me.txtPrice.Name = "txtPrice"
         Me.txtPrice.Size = New System.Drawing.Size(100, 20)
         Me.txtPrice.TabIndex = 6
@@ -99,7 +99,7 @@ Partial Class Form1
         '
         Me.cboCategory.FormattingEnabled = True
         Me.cboCategory.Items.AddRange(New Object() {"Painting", "Sculpture", "Digital Art"})
-        Me.cboCategory.Location = New System.Drawing.Point(502, 68)
+        Me.cboCategory.Location = New System.Drawing.Point(357, 67)
         Me.cboCategory.Name = "cboCategory"
         Me.cboCategory.Size = New System.Drawing.Size(121, 21)
         Me.cboCategory.TabIndex = 7
